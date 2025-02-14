@@ -28,4 +28,4 @@ jobs:
         uses: actions/upload-artifact@v4 # Updated to latest version
         with:
           name: build-output
-          path: dist/my-primeng-app # Saves the build output as an artifact
+          path: dist/sample-app # Saves the build output as an artifact
